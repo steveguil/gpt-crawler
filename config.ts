@@ -6,5 +6,5 @@ export const defaultConfig: Config = {
   selector: `.body-container`,
   maxPagesToCrawl: 2000,
   outputFileName: "output.json",
-  maxTokens: 2000000
+  maxTokens: 2000000,
 };
